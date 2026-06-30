@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Portfolio\\CountServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|c:\\portfolio\\countserver\\countserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|solutionrelative:countserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|c:\\portfolio\\countserver\\countserver\\countserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|solutionrelative:countserver\\countserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|c:\\portfolio\\countserver\\countserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|solutionrelative:countserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|c:\\portfolio\\countserver\\countserver\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{41B0F448-9789-4743-8F50-B8ABD30D841B}|CountServer\\CountServer.csproj|solutionrelative:countserver\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Portfolio\\CountServer\\CountServer\\Program.cs",
+              "RelativeDocumentMoniker": "CountServer\\Program.cs",
+              "ToolTip": "C:\\Portfolio\\CountServer\\CountServer\\Program.cs",
+              "RelativeToolTip": "CountServer\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T14:59:29.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Portfolio\\CountServer\\CountServer\\Dockerfile",
+              "RelativeDocumentMoniker": "CountServer\\Dockerfile",
+              "ToolTip": "C:\\Portfolio\\CountServer\\CountServer\\Dockerfile",
+              "RelativeToolTip": "CountServer\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-30T14:58:51.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountServer",
+              "DocumentMoniker": "C:\\Portfolio\\CountServer\\CountServer\\CountServer.csproj",
+              "RelativeDocumentMoniker": "CountServer\\CountServer.csproj",
+              "ToolTip": "C:\\Portfolio\\CountServer\\CountServer\\CountServer.csproj",
+              "RelativeToolTip": "CountServer\\CountServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-30T14:57:13.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Portfolio\\CountServer\\CountServer\\docker-compose.yml",
+              "RelativeDocumentMoniker": "CountServer\\docker-compose.yml",
+              "ToolTip": "C:\\Portfolio\\CountServer\\CountServer\\docker-compose.yml",
+              "RelativeToolTip": "CountServer\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-30T14:53:05.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
